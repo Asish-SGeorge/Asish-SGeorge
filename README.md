@@ -1,226 +1,109 @@
 # 👋 Hi, I'm Asish S George
 
-### 🤖 AI/ML Developer | Robotics Enthusiast | Builder
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%7C+NLP+%7C+Generative+AI;Robotics+%7C+ROS+2+%7C+Embedded+Systems;Building+Ideas+%E2%86%92+Projects+%E2%86%92+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%7C+Generative+AI;Robotics+%7C+ROS+2+%7C+Embedded+Systems;Building+Ideas+%E2%86%92+Projects+%E2%86%92+Impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Asish-SGeorge">
-    <img src="https://komarev.com/ghpvc/?username=Asish-SGeorge&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=Asish-SGeorge&style=flat-square&color=blue" alt="Profile Views"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-I'm a **B.Tech Artificial Intelligence & Machine Learning student** who enjoys turning ideas into working systems.
+I'm an **AI & ML student** passionate about building real-world solutions using **Artificial Intelligence, Computer Vision, Generative AI, and Robotics**.
 
-I'm particularly interested in the intersection of **AI, robotics, computer vision, embedded systems, and real-world applications**.
+I enjoy experimenting with new technologies, building projects, and turning ideas into working systems. 🚀
 
-- 🤖 Building projects with **AI/ML, Computer Vision & Robotics**
-- 🧠 Exploring **Generative AI, NLP & Deep Learning**
-- 🦾 Working with **ROS 2, micro-ROS & embedded systems**
-- 🔬 Interested in **research, intelligent systems & autonomous robotics**
-- 🚀 Participating in **hackathons, technical communities & innovation projects**
-- 💡 I like learning by **building things rather than just watching tutorials**
-
-> *Turning ideas into systems, one project at a time.*
+- 🤖 Exploring **AI/ML & Robotics**
+- 👁️ Interested in **Computer Vision**
+- 🧠 Learning **Generative AI & LLMs**
+- 🦾 Building with **ROS 2 & Embedded Systems**
+- 🚀 Always experimenting with new ideas
 
 ---
 
-## 🧠 What I'm Into
-
-```text
-Artificial Intelligence
-        │
-        ├── Machine Learning
-        ├── Deep Learning
-        ├── Computer Vision
-        ├── NLP & LLMs
-        ├── Generative AI
-        │
-        └── Intelligent Systems
-                │
-                ├── Robotics
-                ├── ROS 2 / micro-ROS
-                ├── Embedded AI
-                └── Edge Computing
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 AI / Machine Learning
+## 🌐 Connect With Me
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-</p>
+  <a href="https://instagram.com/asishsgeorge">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
 
-**Python • PyTorch • TensorFlow • OpenCV • Pandas • NumPy • Scikit-learn • NLP • Deep Learning • Computer Vision • LLMs • Generative AI**
+  <a href="https://www.linkedin.com/in/asish-s-george-06b43932b/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-### 🦾 Robotics & Embedded Systems
+  <a href="https://asish-sgeorge.github.io/Personal-web/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
-
-**ROS 2 • micro-ROS • Arduino • ESP32 • Raspberry Pi • Embedded C • IoT • Sensors • Motor Control**
-
-**Communication:** `I²C` • `SPI` • `UART`
-
-### 🌐 Development & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
-</p>
-
-**Git • GitHub • Linux • Docker • VS Code • Streamlit • REST APIs**
-
-### ☁️ Exploring
-
-**MLOps • Cloud Computing • Kubernetes • CI/CD • Edge AI • Agentic AI**
-
----
-
-## 🔭 Currently Working On
-
-### 🛰️ AI + Space Technology
-Exploring machine learning approaches for **solar flare prediction, satellite imagery, and remote sensing applications**.
-
-### 🤖 Robotics
-Building and experimenting with **ROS 2 / micro-ROS based robotic systems**, embedded controllers and autonomous platforms.
-
-### 🧠 Generative & Agentic AI
-Exploring **LLMs, AI agents, tool calling, MCP, RAG and intelligent automation**.
-
-### 👁️ Computer Vision
-Working with vision-based systems for **object detection, tracking, anomaly detection and real-world interaction**.
-
----
-
-## 🚀 Featured Projects
-
-### ☀️ Solar Flare Prediction
-Machine learning pipeline for analysing solar observations and identifying patterns associated with solar flare activity.
-
-**Tech:** `Python` `Astropy` `Pandas` `SciPy` `Machine Learning` `FITS`
-
----
-
-### 🤖 micro-ROS Mobile Robot
-
-A mobile robotic platform controlled using **micro-ROS + ROS 2**, connecting embedded hardware with the ROS ecosystem.
-
-**Tech:** `ROS 2` `micro-ROS` `Embedded Systems` `Motor Control`
-
----
-
-### 🌱 AgroGrow
-
-A smart agriculture platform designed to help small-scale farmers and gardeners with **crop planning, soil-based recommendations, farm management and agricultural resources**.
-
-**Tech:** `Python` `AI/ML` `Web Development`
-
----
-
-### 👁️ Computer Vision Projects
-
-Exploring real-world computer vision applications involving:
-
-`Object Detection` • `Object Tracking` • `Anomaly Detection` • `Image Processing` • `Real-Time Vision`
-
----
-
-## 🏆 Hackathons & Innovation
-
-🚀 **Bharatiya Antariksh Hackathon 2026**
-
-🛰️ Worked on space-tech and satellite/solar-data based AI challenges.
-
-💡 **Smart India Hackathon**
-
-Participating in problem-solving challenges involving AI, computer vision and intelligent systems.
-
-🏫 **IEDC / Innovation Projects**
-
-Building and presenting technology-driven solutions through college innovation initiatives.
-
----
-
-## 📚 Currently Learning
-
-```text
-██████████████████████░░  Deep Learning
-████████████████████░░░░  Computer Vision
-██████████████████░░░░░░  NLP / Transformers
-████████████████░░░░░░░░  Generative AI
-██████████████░░░░░░░░░░  Agentic AI
-████████████░░░░░░░░░░░░  MLOps
-███████████████░░░░░░░░░  ROS 2
-```
-
----
-
-## 🎯 My Current Focus
-
-- 🧠 Building stronger foundations in **DSA & problem solving**
-- 🤖 Going deeper into **Robotics + ROS 2**
-- 👁️ Improving **Computer Vision**
-- 🧬 Learning advanced **Deep Learning & Transformers**
-- ⚡ Exploring **Edge AI**
-- 🧠 Building practical **LLM & Agentic AI systems**
-- ☁️ Learning **MLOps & scalable AI deployment**
-- 🚀 Building projects that are actually worth putting on a resume
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asish-SGeorge&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asish-SGeorge&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Asish-SGeorge&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Asish-SGeorge/Asish-SGeorge/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
   <a href="https://github.com/Asish-SGeorge">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://asish-sgeorge.github.io/Personal-web/">
-    <img src="https://img.shields.io/badge/Portfolio-00A8E8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-<p align="center">
+# 💻 Tech Stack
 
-### 💭 "Build. Break. Learn. Repeat."
+### 🤖 AI / Machine Learning
 
-**Thanks for stopping by! 🚀**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-⭐ Feel free to explore my repositories and connect if you'd like to build something interesting together.
+**Machine Learning • Deep Learning • Computer Vision • NLP • LLMs • Generative AI**
 
-</p>
+---
+
+### 🦾 Robotics & Embedded Systems
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+
+**ROS 2 • micro-ROS • Arduino • ESP32 • Raspberry Pi • Embedded C • IoT**
+
+**Communication:** `I²C` • `SPI` • `UART`
+
+---
+
+### 💻 Programming & Development
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### ☁️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+# 🚀 Currently Exploring
+
+```text
+🧠 Deep Learning
+👁️ Computer Vision
+🧬 NLP & Transformers
+✨ Generative AI
+🤖 Agentic AI & LLM Applications
+🦾 ROS 2 & Robotics
+⚡ Edge AI
+☁️ MLOps & AI Deployment
